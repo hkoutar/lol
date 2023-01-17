@@ -1,0 +1,14 @@
+*.txt
+*.log
+!panda.txt
+.DS_store
+thumb
+
+
+
+
+
+
+
+
+
